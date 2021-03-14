@@ -1,0 +1,23 @@
+{
+  "name": "powapi",
+  "version": "1.0.0",
+  "description": "Api for Powason",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonathanBerkeley/PowApi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonathanBerkeley/PowApi/issues"
+  },
+  "homepage": "https://github.com/JonathanBerkeley/PowApi#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
