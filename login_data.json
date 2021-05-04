@@ -1,0 +1,30 @@
+[
+  {
+    "title": "My Google password",
+    "target": "google",
+    "target_name": "https://gmail.com",
+    "password": "testpassword",
+    "username": "testusername@gmail.com"
+  },
+  {
+    "title": "My IADT password",
+    "target": "iadt",
+    "target_name": "https://iadt.ie",
+    "password": "iadtpassword123",
+    "username": "jonathanberkeley1999@gmail.com"
+  },
+  {
+    "title": "My passwordless/usernameless login",
+    "target": "example",
+    "target_name": "https://ebay.com",
+    "password": "null",
+    "username": "null"
+  },
+  {
+    "title": "My usernameless login",
+    "target": "test2",
+    "target_name": "https://domain.com",
+    "password": "testpassword123",
+    "username": "null"
+  }
+]
